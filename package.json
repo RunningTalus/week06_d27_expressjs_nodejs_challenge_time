@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "express": "4.x"
+    "express": "4.x",
+    "moment": "^2.6.0"
   }
 }
